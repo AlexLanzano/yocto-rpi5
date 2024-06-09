@@ -1,0 +1,9 @@
+cache/
+downloads/
+sstate-cache/
+tmp-glibc/
+
+bitbake-cookerdaemon.log
+conf/conf-notes.txt
+conf/conf-summary.txt
+conf/templateconf.cfg
